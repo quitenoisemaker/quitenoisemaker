@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Samson Ojugo
 
-I'm a Lead Software Engineer at [Cargoplug](https://getcargoplug.com), a Techstars 2024 company, where I build scalable solutions for logistics and verification systems. With a deep passion for clean code and innovative problem-solving, I specialize in **PHP**, **Laravel**, and full-stack development, delivering robust applications that drive impact.
+I'm a Lead Software Engineer with a passion for turning complex challenges into scalable solutions. My expertise in PHP, Laravel, and full-stack development allows me to build robust applications for domains like logistics, e-commerce, HRM, ATS, and Fintech, always focused on clean code and driving real impact.
 
 ## 👀 What I’m About
 - Crafting efficient, maintainable code with a focus on minimizing technical debt.
