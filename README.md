@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Samson Ojugo
 
-I'm a Lead Software Engineer with a passion for turning complex challenges into scalable solutions. My expertise in PHP, Laravel, and full-stack development allows me to build robust applications for domains like logistics, e-commerce, HRM, ATS, and Fintech, always focused on clean code and driving real impact.
+I design and develop scalable solutions for logistics, Fintech, e-commerce, and HRM systems, driven by a passion for clean code and innovative problem-solving. My focus is on building robust applications that create meaningful impact.
 
 ## 👀 What I’m About
 - Crafting efficient, maintainable code with a focus on minimizing technical debt.
